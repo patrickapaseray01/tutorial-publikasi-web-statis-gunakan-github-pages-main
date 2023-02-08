@@ -2,4 +2,4 @@
 
 Lihat demo disini : https://patrickapaseray01.github.io/sacode_online_2023_day01/
 
-[LIHAT DEMO DISINI] : (https://patrickapaseray01.github.io/sacode_online_2023_day01/)
+[LIHAT DEMO DISINI].(https://patrickapaseray01.github.io/sacode_online_2023_day01/)
